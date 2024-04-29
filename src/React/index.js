@@ -1,7 +1,7 @@
-import {createElement} from "./createElement";
+import {createElement, jsx} from "./createElement";
 
 const React = {
-    createElement
+    createElement, jsx
 }
 
 export default React;

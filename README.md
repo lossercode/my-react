@@ -16,7 +16,9 @@ pnpm add webpack webpack-cli html-webpack-plugin webpack-dev-server babel-loader
 pnpm run dev
 ```
 
-## 详解
+## 总体架构
+
+
 
 ### JSX
 
